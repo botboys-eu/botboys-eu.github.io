@@ -2,4 +2,4 @@ name: BotBoys
 markdown: kramdown
 title: "BotBoys Documentation"
 description: "Documentation for BotBoys applications"
-theme: modernist
+theme: jekyll-theme-modernist
