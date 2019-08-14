@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "BotBoys Web Messenger"
-descriptions: "Installing the BotBoys Web Messenger plugin"
+description: "Installing the BotBoys Web Messenger plugin"
 theme: jekyll-theme-modernist
 ---
 
