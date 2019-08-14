@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 title: "BotBoys Web Messenger"
+theme: jekyll-theme-modernist
 ---
 
 The BotBoys Web Messenger will add live web messaging to your website or web app.
