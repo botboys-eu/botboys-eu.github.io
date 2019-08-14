@@ -4,7 +4,9 @@ title: BotBoys
 ---
 <div class="blurb">
 	<h1>BotBoys Documentation</h1>
-	<ul>
-		<li><a href="/web">Web Messenger</a></li>
+	<ul class="posts">
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
 	</ul>
 </div>
