@@ -248,8 +248,6 @@ The list of localizable strings. These strings can be modified. _If an option is
 ```javascript
 var initPromise = BotBoys.init({
     appId: '<app-id>',
-
-    // Leave unspecified for US region (default)
     region: 'eu-1',
 
     // For authenticated mode
