@@ -3,8 +3,6 @@ layout: post
 title: "BotBoys Web Messenger"
 ---
 
-# BotBoys Web Messenger
-
 The BotBoys Web Messenger will add live web messaging to your website or web app.
 
 ## Usage
