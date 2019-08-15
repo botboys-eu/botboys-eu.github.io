@@ -665,7 +665,7 @@ BotBoys.init({
 The `onInvalidAuth` delegate notifies the delegate of a failed request due to invalid credentials and allows the implementer to set a new auth token in order to retry the request. The delegate must return a new JWT token as a `string` or `Promise<string>` that will resolve into the JWT.
 
 ```javascript
-Smooch.init({
+BotBoys.init({
     appId: '<app-id>',
     delegate: {
         onInvalidAuth() {
